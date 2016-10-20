@@ -14,8 +14,8 @@
                 ]]>
             </description>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-            <sparkle:version>internal</sparkle:version>
-            <sparkle:shortVersionString>1.0.11.10</sparkle:shortVersionString>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <link>https://github.com/jakjothi/appcast/wiki</link>
         </item>
     </channel>
