@@ -6,7 +6,7 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.1.0 (2 bugs fixed; 3 new features)</title>
+            <title>Version 1.0.11.10 (2 bugs fixed; 3 new features)</title>
             <pubDate>Thu, 20 Oct 2016 11:32:00 +0000</pubDate>
             <description>
                 <![CDATA[
@@ -15,7 +15,7 @@
             </description>
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
             <sparkle:version>internal</sparkle:version>
-            <sparkle:shortVersionString>1.0.1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.11.10</sparkle:shortVersionString>
         </item>
     </channel>
 </rss>
